@@ -1,0 +1,1 @@
+# config-spring-pet-clinic-cross-ns-too
